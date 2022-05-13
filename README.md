@@ -1,4 +1,3 @@
-# 
 
 # BCM Great Promise Style
 
